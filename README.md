@@ -2,8 +2,8 @@ Auditoria de Segurança e Testes de Força Bruta com Kali Linux e Medusa
 
 > **Aviso Legal:** Todos os testes documentados neste repositório foram realizados exclusivamente em ambiente virtualizado, isolado (rede *Host-Only*) e controlado, utilizando máquinas propositalmente vulneráveis para fins estritamente educacionais.
 Sobre o Projeto
-Este projeto demonstra a execução de testes de intrusão focados em quebra de autenticação (Força Bruta e *Password Spraying*) utilizando a ferramenta **Medusa** no **Kali Linux** contra o ambiente **Metasploitable 2** e a aplicação web **DVWA**, além de propor medidas técnicas de mitigação para cada vetor explorado.
-
+Este projeto demonstra a execução de testes de intrusão focados em quebra de autenticação (Força Bruta e *Password Spraying*) utilizando a ferramenta **Medusa** no **Kali Linux** contra o ambiente **Metasploitable 2** e a aplicação web **DVWA**.
+> 
 Arquitetura do Laboratório
 * **Hypervisor:** Oracle VirtualBox
 * **Configuração de Rede:** Host-Only Adapter (Rede Interna Isolada)
